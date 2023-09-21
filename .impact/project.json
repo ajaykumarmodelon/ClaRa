@@ -1,0 +1,51 @@
+{
+  "name": "ClaRaLibrary",
+  "format": "1.0.0",
+  "dependencies": [],
+  "content": [
+    {
+      "relpath": "ClaRa",
+      "contentType": "MODELICA",
+      "name": "ClaRa",
+      "defaultDisabled": false,
+      "id": "cb7383eb89564e8ba23f669f539a8c46"
+    },
+    {
+      "relpath": "Resources/Views",
+      "contentType": "VIEWS",
+      "defaultDisabled": false,
+      "id": "494e9a081b9547d8af973e6dfbf3cd69"
+    },
+    {
+      "relpath": "Resources/Favorites",
+      "contentType": "FAVORITES",
+      "defaultDisabled": false,
+      "id": "2dccd13b851b4d03b45f81c78aace024"
+    },
+    {
+      "relpath": "Resources/CustomFunctions",
+      "contentType": "CUSTOM_FUNCTIONS",
+      "defaultDisabled": false,
+      "id": "312378811ed64010ada86435adebd4ff"
+    },
+    {
+      "relpath": "Resources/Custom",
+      "contentType": "GENERIC",
+      "defaultDisabled": false,
+      "id": "a21fce3a6a6f4e9b8ef4aaf5e8653226"
+    },
+    {
+      "relpath": "ReferenceResults",
+      "contentType": "REFERENCE_RESULTS",
+      "defaultDisabled": false,
+      "id": "5cac304f40ee4feca2a9c68945a05d1c"
+    },
+    {
+      "relpath": "Resources/ExperimentDefinitions",
+      "contentType": "EXPERIMENT_DEFINITIONS",
+      "defaultDisabled": false,
+      "id": "6619b0faa1ea4a3a9546cf126bbc0c91"
+    }
+  ],
+  "executionOptions": []
+}
